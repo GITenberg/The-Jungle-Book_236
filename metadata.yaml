@@ -1,5 +1,5 @@
 _repo: The-Jungle-Book_236
-_version: 0.2.1
+_version: 0.2.2
 covers:
 - attribution: Jeff Walters, 2015
   cover_type: original
@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '132'
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/236#The-Jungle-Book
 gutenberg_bookshelf:
 - Scouts
 - Movie Books
